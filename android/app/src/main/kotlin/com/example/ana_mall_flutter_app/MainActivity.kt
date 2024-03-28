@@ -1,0 +1,5 @@
+package com.example.ana_mall_flutter_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
